@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import BackgroundLayout from '../layout/backgroundLayout';
+import BackgroundLayout from '../layout/BackgroundLayout';
 import axios from 'axios';
 import { toast } from 'react-hot-toast';
 
