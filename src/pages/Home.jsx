@@ -4,7 +4,7 @@ import { LuSparkles } from "react-icons/lu";
 import axios from 'axios';
 import UserDisplay from '../components/UserDisplay';
 import '../index.css';
-import BackgroundLayout from '../layout/backgroundLayout';
+import BackgroundLayout from '../layout/BackgroundLayout';
 
 const URL = "https://taskbackend-yd4x.onrender.com/api";
 
