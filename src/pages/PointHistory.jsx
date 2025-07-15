@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import BackgroundLayout from '../layout/backgroundLayout';
+import BackgroundLayout from '../layout/BackgroundLayout';
 import axios from 'axios';
 import { useParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
